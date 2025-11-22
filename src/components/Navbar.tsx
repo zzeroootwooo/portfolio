@@ -1,6 +1,4 @@
 import dayjs from "dayjs";
-
-import React from "react";
 import constants from "#constants";
 
 const { navLinks, navIcons } = constants;
